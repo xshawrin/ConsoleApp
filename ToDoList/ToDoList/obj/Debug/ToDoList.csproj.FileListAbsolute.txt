@@ -1,0 +1,7 @@
+D:\.net\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+D:\.net\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+D:\.net\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+D:\.net\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+D:\.net\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+D:\.net\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+D:\.net\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

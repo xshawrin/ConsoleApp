@@ -21,31 +21,32 @@ namespace ToDoList
                 Console.WriteLine("\n3. Mark Todo as done");
                 Console.WriteLine("\n4. Remove Todo");
                 Console.WriteLine("\n0. Exit");
-                Console.WriteLine("Choose an option");
+                Console.Write("\nChoose an option: ");
 
                 string choise = Console.ReadLine();
 
                 switch (choise)
                 {
-                    case "1": AddToDo(todos);break;
-                    case "2": ToDoList(todos);break;     
-                    case "3": DoneTodo(todos);break;
-                    case "4": RemoveTodo(todos);break;
+                    case "1": AddToDo(todos); break;
+                    case "2": ToDoList(todos); break;
+                    case "3": DoneTodo(todos); break;
+                    case "4": RemoveTodo(todos); break;
                     case "0":
                         running = false;
                         Console.WriteLine("Good bye");
                         break;
 
-                    default: Console.WriteLine("Invalid Input");break;
+                    default: Console.WriteLine("Invalid Input"); break;
 
                 }
             }
         }
+
         static int ReadInt(string message)
         {
-            Console.WriteLine(message);
+            Console.Write(message);
             int value;
-            while (!int.TryParse(Console.ReadLine(), out value));
+            while (!int.TryParse(Console.ReadLine(), out value)) 
             {
                 Console.WriteLine("Invalid input. Try again: ");
             }
@@ -67,7 +68,7 @@ namespace ToDoList
             {
                 Console.WriteLine("No Todo list are found.");
                 return;
-            } 
+            }
             foreach (var t in todos)
             {
                 Console.WriteLine(t.ShowInfo());
@@ -81,9 +82,45 @@ namespace ToDoList
                 return;
             }
             int id = ReadInt("Enter Todo Id to mark as done: ");
+            ToDo todo = todos.FirstOrDefault(t => t.Id == id);
+            if (todo == null)
+            {
+                Console.WriteLine("Todo not found");
+                return;
+            }
+            todo.IsDone = true;
+            Console.WriteLine("Todo marked as done!");
 
         }
-            
+        static void RemoveTodo(List<ToDo> todos)
+        {
+            if (todos.Count == 0)
+            {
+                Console.WriteLine("No todo to remove.");
+                return;
+            }
+            int id = ReadInt("Enter todo Id to remove: ");
+            ToDo todo = todos.FirstOrDefault(t => t.Id == id);
+
+            if (todo == null)
+            {
+                Console.WriteLine("Todo not found");
+                return;
+            }
+            Console.WriteLine($"Are you sure you want to remove '{todo.Title}' from your todo list? (y/n):");
+            string confirm = Console.ReadLine();
+
+            if (confirm.ToLower() == "y")
+            {
+                todos.Remove(todo);
+                Console.WriteLine($"'{todo.Title}' removed successfully from your todo list.");
+            }
+            else
+            {
+                Console.WriteLine("Removal cancelled");
+            }
+
+        }
     }
     class ToDo
     {
