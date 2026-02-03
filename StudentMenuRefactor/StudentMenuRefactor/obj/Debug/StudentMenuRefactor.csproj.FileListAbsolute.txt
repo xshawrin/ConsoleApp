@@ -1,0 +1,7 @@
+D:\.net\StudentMenuRefactor\StudentMenuRefactor\bin\Debug\StudentMenuRefactor.exe.config
+D:\.net\StudentMenuRefactor\StudentMenuRefactor\bin\Debug\StudentMenuRefactor.exe
+D:\.net\StudentMenuRefactor\StudentMenuRefactor\bin\Debug\StudentMenuRefactor.pdb
+D:\.net\StudentMenuRefactor\StudentMenuRefactor\obj\Debug\StudentMenuRefactor.csproj.AssemblyReference.cache
+D:\.net\StudentMenuRefactor\StudentMenuRefactor\obj\Debug\StudentMenuRefactor.csproj.CoreCompileInputs.cache
+D:\.net\StudentMenuRefactor\StudentMenuRefactor\obj\Debug\StudentMenuRefactor.exe
+D:\.net\StudentMenuRefactor\StudentMenuRefactor\obj\Debug\StudentMenuRefactor.pdb
