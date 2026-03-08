@@ -45,7 +45,7 @@ namespace ContactBook
                     case "5":
                         UpdateContact(contacts);
                         break;
-                    case "6":
+                    case "0":
                         running = false;
                         Console.WriteLine("Exiting phonebook!");
                         break;
@@ -67,13 +67,19 @@ namespace ContactBook
             string name = Console.ReadLine();
 
             Console.WriteLine("Enter contact number");
-            int number = int.Parse(Console.ReadLine());
+            string number = Console.ReadLine();
 
             contacts.Add(new PhoneBook(id, name, number));
             Console.WriteLine("Contact added successfully in phonebook");
         }
         static void ShowContact(List<PhoneBook> contacts)
         {
+            if (contacts.Count == 0)
+            {
+                Console.WriteLine("No contact found");
+                return;
+            }
+            
             foreach(PhoneBook c in contacts)
                 Console.WriteLine( c.ShowInfo());
 
@@ -84,7 +90,7 @@ namespace ContactBook
             Console.WriteLine("Enter the name to remove");
             string name = Console.ReadLine();
 
-            PhoneBook contact = contacts.Find(c => c.name.ToLower() == name.ToLower());
+            PhoneBook contact = contacts.Find(c => c.name.Equals(name, StringComparison.OrdinalIgnoreCase));//ToLower() == name.ToLower());
              if (contact != null)
             { 
                 Console.WriteLine($"Are you sure you want to remove '{name}' from contact? (Y/N): ");
@@ -132,8 +138,10 @@ namespace ContactBook
             PhoneBook contact = contacts.Find(c => c.name.ToLower() == name.ToLower());
             if (contact != null)
             {
-                Console.WriteLine(" Enter new number or name to update");
-                contact.number = int.Parse(Console.ReadLine());
+                Console.WriteLine(" Enter new name to update");
+                contact.name = Console.ReadLine();
+                Console.WriteLine(" Enter new number to update");
+                contact.number = Console.ReadLine();
 
             }
             else { Console.WriteLine("No name found!"); }
@@ -145,9 +153,9 @@ namespace ContactBook
     {
         public int id { get; set; }
         public string name { get; set; }
-        public int number { get; set; }
+        public string number { get; set; }
 
-        public PhoneBook(int id, string name, int number)
+        public PhoneBook(int id, string name, string number)
         {
             this.id = id;
             this.name = name;
