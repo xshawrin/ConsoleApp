@@ -65,6 +65,12 @@ namespace ContactBook
 
             Console.WriteLine("Enter name");
             string name = Console.ReadLine();
+            bool exist = contacts.Any(c => c.name.Equals(name, StringComparison.OrdinalIgnoreCase));
+            if (exist)
+            {
+                Console.WriteLine("Contact with this name is already exists.");
+                return;
+            }
 
             Console.WriteLine("Enter contact number");
             string number = Console.ReadLine();
@@ -121,13 +127,19 @@ namespace ContactBook
             Console.WriteLine("Enter the name");
             string name = Console.ReadLine();
 
-            PhoneBook contact = contacts.Find(c => c.name.ToLower() == name.ToLower());
-            if (contact != null)
+            var results = contacts
+                .Where(c => c.name.ToLower().Contains(name.ToLower()))//(c => c.name.Contains(name, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            if (results.Count == 0)
             {
-                Console.WriteLine($" {contact.id}. {contact.name}- {contact.number}");
+                Console.WriteLine("No contact found");
+                return;
             }
-            else
-            { Console.WriteLine("No contact found!"); }
+            foreach(var contact in results)
+            {
+                Console.WriteLine(contact.ShowInfo());
+            }
         }
 
         static void UpdateContact(List<PhoneBook> contacts)
