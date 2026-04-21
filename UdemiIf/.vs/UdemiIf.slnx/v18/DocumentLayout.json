@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\UdemiIf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712E66E9-868F-4ECC-A5FD-7FA6F3963027}|UdemiIf\\UdemiIf.csproj|d:\\.net\\udemiif\\udemiif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712E66E9-868F-4ECC-A5FD-7FA6F3963027}|UdemiIf\\UdemiIf.csproj|solutionrelative:udemiif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\UdemiIf\\UdemiIf\\Program.cs",
+              "RelativeDocumentMoniker": "UdemiIf\\Program.cs",
+              "ToolTip": "D:\\.net\\UdemiIf\\UdemiIf\\Program.cs",
+              "RelativeToolTip": "UdemiIf\\Program.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAANsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:33:22.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

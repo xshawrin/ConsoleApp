@@ -1,0 +1,7 @@
+D:\.net\polyMorphism\polyMorphism\bin\Debug\polyMorphism.exe.config
+D:\.net\polyMorphism\polyMorphism\bin\Debug\polyMorphism.exe
+D:\.net\polyMorphism\polyMorphism\bin\Debug\polyMorphism.pdb
+D:\.net\polyMorphism\polyMorphism\obj\Debug\polyMorphism.csproj.AssemblyReference.cache
+D:\.net\polyMorphism\polyMorphism\obj\Debug\polyMorphism.csproj.CoreCompileInputs.cache
+D:\.net\polyMorphism\polyMorphism\obj\Debug\polyMorphism.exe
+D:\.net\polyMorphism\polyMorphism\obj\Debug\polyMorphism.pdb

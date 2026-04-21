@@ -1,0 +1,7 @@
+D:\.net\LoopPractice\LoopPractice\bin\Debug\LoopPractice.exe.config
+D:\.net\LoopPractice\LoopPractice\bin\Debug\LoopPractice.exe
+D:\.net\LoopPractice\LoopPractice\bin\Debug\LoopPractice.pdb
+D:\.net\LoopPractice\LoopPractice\obj\Debug\LoopPractice.csproj.AssemblyReference.cache
+D:\.net\LoopPractice\LoopPractice\obj\Debug\LoopPractice.csproj.CoreCompileInputs.cache
+D:\.net\LoopPractice\LoopPractice\obj\Debug\LoopPractice.exe
+D:\.net\LoopPractice\LoopPractice\obj\Debug\LoopPractice.pdb

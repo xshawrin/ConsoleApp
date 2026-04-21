@@ -1,0 +1,7 @@
+D:\.net\UdemiIf\UdemiIf\bin\Debug\UdemiIf.exe.config
+D:\.net\UdemiIf\UdemiIf\bin\Debug\UdemiIf.exe
+D:\.net\UdemiIf\UdemiIf\bin\Debug\UdemiIf.pdb
+D:\.net\UdemiIf\UdemiIf\obj\Debug\UdemiIf.csproj.AssemblyReference.cache
+D:\.net\UdemiIf\UdemiIf\obj\Debug\UdemiIf.csproj.CoreCompileInputs.cache
+D:\.net\UdemiIf\UdemiIf\obj\Debug\UdemiIf.exe
+D:\.net\UdemiIf\UdemiIf\obj\Debug\UdemiIf.pdb
