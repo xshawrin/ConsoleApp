@@ -1,0 +1,7 @@
+D:\.net\UdemiArrays&Lists\UdemiArrays&Lists\bin\Debug\UdemiArrays&Lists.exe.config
+D:\.net\UdemiArrays&Lists\UdemiArrays&Lists\bin\Debug\UdemiArrays&Lists.exe
+D:\.net\UdemiArrays&Lists\UdemiArrays&Lists\bin\Debug\UdemiArrays&Lists.pdb
+D:\.net\UdemiArrays&Lists\UdemiArrays&Lists\obj\Debug\UdemiArrays&Lists.csproj.AssemblyReference.cache
+D:\.net\UdemiArrays&Lists\UdemiArrays&Lists\obj\Debug\UdemiArrays&Lists.csproj.CoreCompileInputs.cache
+D:\.net\UdemiArrays&Lists\UdemiArrays&Lists\obj\Debug\UdemiArrays&Lists.exe
+D:\.net\UdemiArrays&Lists\UdemiArrays&Lists\obj\Debug\UdemiArrays&Lists.pdb

@@ -1,0 +1,7 @@
+D:\.net\ParseMethodUdemi\ParseMethodUdemi\bin\Debug\ParseMethodUdemi.exe.config
+D:\.net\ParseMethodUdemi\ParseMethodUdemi\bin\Debug\ParseMethodUdemi.exe
+D:\.net\ParseMethodUdemi\ParseMethodUdemi\bin\Debug\ParseMethodUdemi.pdb
+D:\.net\ParseMethodUdemi\ParseMethodUdemi\obj\Debug\ParseMethodUdemi.csproj.AssemblyReference.cache
+D:\.net\ParseMethodUdemi\ParseMethodUdemi\obj\Debug\ParseMethodUdemi.csproj.CoreCompileInputs.cache
+D:\.net\ParseMethodUdemi\ParseMethodUdemi\obj\Debug\ParseMethodUdemi.exe
+D:\.net\ParseMethodUdemi\ParseMethodUdemi\obj\Debug\ParseMethodUdemi.pdb

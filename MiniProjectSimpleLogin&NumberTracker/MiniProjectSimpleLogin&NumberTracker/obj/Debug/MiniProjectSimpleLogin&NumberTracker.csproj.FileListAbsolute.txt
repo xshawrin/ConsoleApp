@@ -1,0 +1,7 @@
+D:\.net\MiniProjectSimpleLogin&NumberTracker\MiniProjectSimpleLogin&NumberTracker\bin\Debug\MiniProjectSimpleLogin&NumberTracker.exe.config
+D:\.net\MiniProjectSimpleLogin&NumberTracker\MiniProjectSimpleLogin&NumberTracker\bin\Debug\MiniProjectSimpleLogin&NumberTracker.exe
+D:\.net\MiniProjectSimpleLogin&NumberTracker\MiniProjectSimpleLogin&NumberTracker\bin\Debug\MiniProjectSimpleLogin&NumberTracker.pdb
+D:\.net\MiniProjectSimpleLogin&NumberTracker\MiniProjectSimpleLogin&NumberTracker\obj\Debug\MiniProjectSimpleLogin&NumberTracker.csproj.AssemblyReference.cache
+D:\.net\MiniProjectSimpleLogin&NumberTracker\MiniProjectSimpleLogin&NumberTracker\obj\Debug\MiniProjectSimpleLogin&NumberTracker.csproj.CoreCompileInputs.cache
+D:\.net\MiniProjectSimpleLogin&NumberTracker\MiniProjectSimpleLogin&NumberTracker\obj\Debug\MiniProjectSimpleLogin&NumberTracker.exe
+D:\.net\MiniProjectSimpleLogin&NumberTracker\MiniProjectSimpleLogin&NumberTracker\obj\Debug\MiniProjectSimpleLogin&NumberTracker.pdb

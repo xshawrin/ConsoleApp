@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\MiniProjectSimpleLogin\u0026NumberTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6CC630-CBB3-4D68-9DDC-F75882C573D2}|MiniProjectSimpleLogin\u0026NumberTracker\\MiniProjectSimpleLogin\u0026NumberTracker.csproj|d:\\.net\\miniprojectsimplelogin\u0026numbertracker\\miniprojectsimplelogin\u0026numbertracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6CC630-CBB3-4D68-9DDC-F75882C573D2}|MiniProjectSimpleLogin\u0026NumberTracker\\MiniProjectSimpleLogin\u0026NumberTracker.csproj|solutionrelative:miniprojectsimplelogin\u0026numbertracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\MiniProjectSimpleLogin\u0026NumberTracker\\MiniProjectSimpleLogin\u0026NumberTracker\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProjectSimpleLogin\u0026NumberTracker\\Program.cs",
+              "ToolTip": "D:\\.net\\MiniProjectSimpleLogin\u0026NumberTracker\\MiniProjectSimpleLogin\u0026NumberTracker\\Program.cs",
+              "RelativeToolTip": "MiniProjectSimpleLogin\u0026NumberTracker\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:30:09.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

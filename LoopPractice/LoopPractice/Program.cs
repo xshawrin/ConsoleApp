@@ -104,18 +104,61 @@ namespace LoopPractice
             //Console.WriteLine($"Total Enter is: {count} ");
 
             //Cleaner Version...
-            int sum = 0;
-            while(true)
+            /* int sum = 0;
+             while(true)
+             {
+                 Console.WriteLine("Enter numbers. Enter -1 to stop.");
+                 int number = Convert.ToInt32(Console.ReadLine());
+                 if (number == -1)
+                     break;
+
+                 sum += number;
+
+             }
+             Console.WriteLine($"Total Enter is: {sum} ");*/
+
+            //Guessing game...(without random)
+            string SecretNum = "";
+            while (SecretNum != "0")
             {
-                Console.WriteLine("Enter numbers. Enter -1 to stop.");
-                int number = Convert.ToInt32(Console.ReadLine());
-                if (number == -1)
-                    break;
-         
-                sum += number;
+                Console.WriteLine("Enter guessing number");
+                SecretNum = Console.ReadLine();
 
             }
-            Console.WriteLine($"Total Enter is: {sum} ");
+
+            //Count how many even numbers... 
+            /*int[] numbers = { 1, 2, 3, 4, 5, 6 };
+            int count = 0;
+            foreach(int i in numbers) 
+            {
+                if (i % 2 == 0)
+
+                { count++; }
+
+            }
+            Console.WriteLine(count);*/
+
+            //Count characters...
+            //string text = "World";
+            //int count = 0;
+            //for (int i = 0; i < text.Length; i++)
+            //{
+            //    count++;
+            //        }
+            //Console.WriteLine(count);
+
+            //Count vowels...
+            //string text = "Education";
+            //int count = 0;
+            //foreach(var c in text.ToLower())
+            //{
+            //    if (c == 'a' || c == 'e' || c == 'i' || c == 'o'|| c=='u')
+            //    {
+            //        count++;
+            //    }
+
+            //}
+            //Console.WriteLine(count);
 
 
 
