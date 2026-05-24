@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\LinqObjectBased\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88A5C32-5223-4996-9418-A72B4A1AD4C2}|LinqObjectBased\\LinqObjectBased.csproj|d:\\.net\\linqobjectbased\\linqobjectbased\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88A5C32-5223-4996-9418-A72B4A1AD4C2}|LinqObjectBased\\LinqObjectBased.csproj|solutionrelative:linqobjectbased\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\LinqObjectBased\\LinqObjectBased\\Program.cs",
+              "RelativeDocumentMoniker": "LinqObjectBased\\Program.cs",
+              "ToolTip": "D:\\.net\\LinqObjectBased\\LinqObjectBased\\Program.cs",
+              "RelativeToolTip": "LinqObjectBased\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAiwIQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T18:08:32.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\.net\oopstopWatch\oopstopWatch\bin\Debug\oopstopWatch.exe.config
+D:\.net\oopstopWatch\oopstopWatch\bin\Debug\oopstopWatch.exe
+D:\.net\oopstopWatch\oopstopWatch\bin\Debug\oopstopWatch.pdb
+D:\.net\oopstopWatch\oopstopWatch\obj\Debug\oopstopWatch.csproj.AssemblyReference.cache
+D:\.net\oopstopWatch\oopstopWatch\obj\Debug\oopstopWatch.csproj.CoreCompileInputs.cache
+D:\.net\oopstopWatch\oopstopWatch\obj\Debug\oopstopWatch.exe
+D:\.net\oopstopWatch\oopstopWatch\obj\Debug\oopstopWatch.pdb

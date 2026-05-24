@@ -1,0 +1,7 @@
+D:\.net\List&arraysPractice\List&arraysPractice\bin\Debug\List&arraysPractice.exe.config
+D:\.net\List&arraysPractice\List&arraysPractice\bin\Debug\List&arraysPractice.exe
+D:\.net\List&arraysPractice\List&arraysPractice\bin\Debug\List&arraysPractice.pdb
+D:\.net\List&arraysPractice\List&arraysPractice\obj\Debug\List&arraysPractice.csproj.AssemblyReference.cache
+D:\.net\List&arraysPractice\List&arraysPractice\obj\Debug\List&arraysPractice.csproj.CoreCompileInputs.cache
+D:\.net\List&arraysPractice\List&arraysPractice\obj\Debug\List&arraysPractice.exe
+D:\.net\List&arraysPractice\List&arraysPractice\obj\Debug\List&arraysPractice.pdb

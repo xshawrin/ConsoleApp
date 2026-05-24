@@ -1,0 +1,7 @@
+D:\.net\datetimeOOP\datetimeOOP\bin\Debug\datetimeOOP.exe.config
+D:\.net\datetimeOOP\datetimeOOP\bin\Debug\datetimeOOP.exe
+D:\.net\datetimeOOP\datetimeOOP\bin\Debug\datetimeOOP.pdb
+D:\.net\datetimeOOP\datetimeOOP\obj\Debug\datetimeOOP.csproj.AssemblyReference.cache
+D:\.net\datetimeOOP\datetimeOOP\obj\Debug\datetimeOOP.csproj.CoreCompileInputs.cache
+D:\.net\datetimeOOP\datetimeOOP\obj\Debug\datetimeOOP.exe
+D:\.net\datetimeOOP\datetimeOOP\obj\Debug\datetimeOOP.pdb

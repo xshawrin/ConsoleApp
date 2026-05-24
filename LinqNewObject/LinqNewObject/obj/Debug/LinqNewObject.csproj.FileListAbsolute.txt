@@ -1,0 +1,7 @@
+D:\.net\LinqNewObject\LinqNewObject\bin\Debug\LinqNewObject.exe.config
+D:\.net\LinqNewObject\LinqNewObject\bin\Debug\LinqNewObject.exe
+D:\.net\LinqNewObject\LinqNewObject\bin\Debug\LinqNewObject.pdb
+D:\.net\LinqNewObject\LinqNewObject\obj\Debug\LinqNewObject.csproj.AssemblyReference.cache
+D:\.net\LinqNewObject\LinqNewObject\obj\Debug\LinqNewObject.csproj.CoreCompileInputs.cache
+D:\.net\LinqNewObject\LinqNewObject\obj\Debug\LinqNewObject.exe
+D:\.net\LinqNewObject\LinqNewObject\obj\Debug\LinqNewObject.pdb

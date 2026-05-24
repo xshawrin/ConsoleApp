@@ -1,0 +1,7 @@
+D:\.net\LinqObjectBased\LinqObjectBased\bin\Debug\LinqObjectBased.exe.config
+D:\.net\LinqObjectBased\LinqObjectBased\bin\Debug\LinqObjectBased.exe
+D:\.net\LinqObjectBased\LinqObjectBased\bin\Debug\LinqObjectBased.pdb
+D:\.net\LinqObjectBased\LinqObjectBased\obj\Debug\LinqObjectBased.csproj.AssemblyReference.cache
+D:\.net\LinqObjectBased\LinqObjectBased\obj\Debug\LinqObjectBased.csproj.CoreCompileInputs.cache
+D:\.net\LinqObjectBased\LinqObjectBased\obj\Debug\LinqObjectBased.exe
+D:\.net\LinqObjectBased\LinqObjectBased\obj\Debug\LinqObjectBased.pdb

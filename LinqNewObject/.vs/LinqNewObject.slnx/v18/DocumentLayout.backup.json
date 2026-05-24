@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\LinqNewObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E43BD1-85F1-41C1-8ABE-DE76683851DA}|LinqNewObject\\LinqNewObject.csproj|d:\\.net\\linqnewobject\\linqnewobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E43BD1-85F1-41C1-8ABE-DE76683851DA}|LinqNewObject\\LinqNewObject.csproj|solutionrelative:linqnewobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\LinqNewObject\\LinqNewObject\\Program.cs",
+              "RelativeDocumentMoniker": "LinqNewObject\\Program.cs",
+              "ToolTip": "D:\\.net\\LinqNewObject\\LinqNewObject\\Program.cs",
+              "RelativeToolTip": "LinqNewObject\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:13:40.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
